@@ -16,7 +16,7 @@ Welcome to my **HR Analytics Power BI project**! This repository provides an end
 
 ## Project Overview
 1. **Data Acquisition**  
-   - Raw HR analytics datasets were downloaded from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/davidafolayan/hr-analytics)).  
+   - Raw HR analytics datasets were downloaded from [Kaggle]([https://www.kaggle.com/datasets/davidafolayan/hr-analytics]).  
    - Multiple CSV files were consolidated into an **Excel file** with separate sheets.
 
 2. **Data Cleaning**  
