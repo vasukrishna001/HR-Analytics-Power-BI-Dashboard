@@ -102,7 +102,3 @@ For a detailed view, refer to the **PDF report** in the `reports` folder.
 
 ---
 
-## How to Use This Repository
-1. **Clone or Download**  
-   ```bash
-   git clone https://github.com/YourUserName/HR-Analytics-PowerBI.git
